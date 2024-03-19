@@ -128,3 +128,4 @@ hubspot.config.yml
 # Lock files
 package-lock.json
 yarn.lock
+bun.lockb
